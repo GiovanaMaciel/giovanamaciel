@@ -4,69 +4,56 @@
 </h1>
 
 <p align="left">
-  Computer Science student at <strong>UFSCar - Sorocaba/SP</strong>, currently an <strong>Intern at Ericsson</strong>, with experience in <strong>XR/Unity development</strong> and a focus on <strong>Backend Java, APIs, Databases, and applied AI</strong>.
+  Computer Science student at <strong>UFSCar</strong> & <strong>Innovation Intern at Ericsson R&D</strong>. I combine strong <strong>Software Engineering</strong> fundamentals with an <strong>AI-first mindset</strong> to build intelligent applications, APIs, and data-driven solutions.
 </p>
 
 <img align="right" alt="Giovana Pixel Art" height="220" src="./assets/giovana.gif">
 
-- 💻 Currently working with **immersive technologies, VR experiences, and Unity development**
-- 🎮 Coordinator at **Maritacas GameDev**, helping build projects and strengthen the student dev community
-- 🌱 Currently focusing my studies on **Java Backend Development**
-- 🚀 My goal is to become a **Backend Java Developer** with strong foundations in **APIs, databases, cloud, and applied AI**
-- 🎨 Fun fact: I love creating and animating **Pixel Art**
+- 💻 Currently building **AI-powered applications** and orchestrating **LLMs** (via OpenAI API & Spring AI)
+- 🔬 Working with **immersive technologies (XR), 5G, and AI** for research and proofs of concept
+- 🎮 Coordinator at **Maritacas GameDev**, helping build projects and strengthen the student community
+- 🌱 Currently exploring **Machine Learning implementations** and **Kaggle** challenges
+- 🎨 Fun fact: I love creating and animating **Pixel Art** in my free time!
 
 <br>
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Artificial Intelligence & Data
 <div style="display: inline_block">
-  <img align="center" alt="C" src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c">
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img align="center" alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai">
   <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python">
+  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter">
 </div>
 
-### Development & Tools
+### Software Engineering & Backend
 <div style="display: inline_block">
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk">
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot">
+  <img align="center" alt="CSharp" src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
+</div>
+
+### Infrastructure & Databases
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
   <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-  <img align="center" alt="GitLab" src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
-</div>
-
-### Databases
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
-</div>
-
-### Currently Learning
-<div style="display: inline_block">
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot">
-  <img align="center" alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate">
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql">
-  <img align="center" alt="Cloud" src="https://img.shields.io/badge/-Cloud-05122A?style=flat&logo=googlecloud">
-  <img align="center" alt="AI" src="https://img.shields.io/badge/-Applied%20AI-05122A?style=flat&logo=openai">
 </div>
 
 <br>
 
 ## 🎯 Current Focus
 
-Right now, I’m building a strong foundation in:
+Right now, I am expanding my skills as an **AI Engineer**, focusing on:
 
-- **Java and Object-Oriented Programming**
-- **REST APIs with Spring Boot**
-- **Databases and SQL**
-- **JPA / Hibernate**
-- **Docker and Cloud fundamentals**
-- **Applied AI concepts for real-world software solutions**
-
-My long-term goal is to grow into a **Backend Developer** who can build solid systems while also understanding how **AI can be applied in practical products**.
+- **AI Orchestration & LLMs:** Integrating models into backend architectures using Spring AI and Python.
+- **Backend Architecture:** Building scalable REST APIs with Java and Spring Boot.
+- **Machine Learning:** Applying classical ML models and participating in data science challenges.
+- **End-to-End Delivery:** Containerizing applications with Docker and ensuring clean, maintainable code.
 
 <br>
 
@@ -78,5 +65,5 @@ My long-term goal is to grow into a **Backend Developer** who can build solid sy
   </a>
   <a href="https://www.linkedin.com/in/giovanamaciell/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  </a>  
 </div>
